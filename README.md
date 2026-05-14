@@ -56,7 +56,7 @@
 
 ---
 
-### 🔧 My Stack & Tools
+### My Stack & Tools
 
 <div align="center">
   <a href="https://skillicons.dev">
