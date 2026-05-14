@@ -25,13 +25,13 @@
 ### 📧 Connect with Me
 
 <div align="center">
-  <a href="https://github.com/NDGTHUAN">
+  <a href="https://github.com/ndgthuan">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="mailto:emailcuaban@gmail.com">
+  <a href="mailto:ndgthuan2414@clc.fitus.edu.vn">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://linkedin.com/in/link-cua-ban">
+  <a href="[https://linkedin.com/in/link-cua-ban](https://www.linkedin.com/in/thuận-nguyễn-dương-gia-08090940…m_source=share_via&utm_content=profile&utm_medium=member_ios)">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
