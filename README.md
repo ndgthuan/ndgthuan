@@ -1,5 +1,6 @@
-# 🚀 Hi there, I'm Thuận Nguyễn 👋
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=rect&color=000000&height=100&section=header&text=HELLO,%20NDGTHUAN&fontSize=35&fontAlignY=50&fontColor=ffffff&descAlignY=51&descAlign=62" />
+</p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/render?type=flat&color=000000&height=100&section=header&text=HELLO,%20NDGTHUAN&fontSize=30&fontAlignY=50&animation=twinkling" />
 </p>
