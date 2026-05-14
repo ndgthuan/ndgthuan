@@ -120,13 +120,14 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=NDGTHUAN&hide_border=false&background=00000000&ring=2f80ed&fire=2f80ed&currStreakNum=2f80ed&sideNums=434d58&currStreakLabel=434d58&sideLabels=434d58&dates=434d58&card_width=875" alt="GitHub Streak" />
   </picture>
 </div>
+
+---
  
-## 🐍 Contribution Snake 
+### Commit Snake 
 <p align="center"> 
-  <img src="https://raw.githubusercontent.com/ndgthuan/ndgthuan/output/github-contribution-grid-snake.svg" /> 
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ndgthuan/ndgthuan/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ndgthuan/ndgthuan/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/ndgthuan/ndgthuan/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+  </picture>
 </p> 
- 
---- 
-<p align="center"> 
-  <img src="https://img.shields.io/badge/Connect-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> 
-</p>
