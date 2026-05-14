@@ -85,12 +85,20 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=ndgthuan&show_icons=true&hide_border=false&bg_color=00000000&title_color=2f80ed&icon_color=2f80ed&text_color=434d58" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ndgthuan&layout=donut&hide_border=false&bg_color=00000000&title_color=2f80ed&text_color=434d58&langs_count=5" alt="Top Languages" />
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats-fast.vercel.app/api?username=ndgthuan&show_icons=true&hide_border=true&bg_color=00000000&title_color=2f80ed&icon_color=2f80ed&text_color=434d58" alt="GitHub Stats" />
+      </td>
+      <td align="center">
+        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ndgthuan&layout=compact&hide_border=true&bg_color=00000000&title_color=2f80ed&text_color=434d58&langs_count=5" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NDGTHUAN&hide_border=false&background=00000000&ring=2f80ed&fire=2f80ed&currStreakNum=2f80ed&sideNums=434d58&currStreakLabel=434d58&sideLabels=434d58&dates=434d58&card_width=750" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NDGTHUAN&hide_border=true&background=00000000&ring=2f80ed&fire=2f80ed&currStreakNum=2f80ed&sideNums=434d58&currStreakLabel=434d58&sideLabels=434d58&dates=434d58&card_width=750" alt="GitHub Streak" />
 </div>
 
 ## 🐍 Contribution Snake
