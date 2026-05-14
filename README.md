@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=rect&color=000000&height=100&section=header&text=HELLO,%20NDGTHUAN&fontSize=35&fontAlignY=50&fontColor=ffffff" alt="header" />
+  <img src="https://placehold.jp/35/000000/ffffff/400x100.png?text=HELLO,%20NDGTHUAN" alt="header" />
 </p>
 
 <h1 align="center">🌌 Welcome to my universe!</h1>
