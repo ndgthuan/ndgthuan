@@ -1,8 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=rect&color=000000&height=100&section=header&text=HELLO,%20NDGTHUAN&fontSize=35&fontAlignY=50&fontColor=ffffff&descAlignY=51&descAlign=62" />
-</p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=flat&color=000000&height=100&section=header&text=HELLO,%20NDGTHUAN&fontSize=30&fontAlignY=50&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/render?type=rect&color=000000&height=100&section=header&text=HELLO,%20NDGTHUAN&fontSize=35&fontAlignY=50&fontColor=ffffff" alt="header" />
 </p>
 
 <h1 align="center">🌌 Welcome to my universe!</h1>
@@ -12,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ndgthuan&label=Profile%20views&color=df0eb1&style=flat" alt="ndgthuan" />
+  <img src="https://komarev.com/ghpvc/?username=ndgthuan&label=Profile%20views&color=df0eb1&style=flat" alt="profile views" />
 </p>
 
 ---
