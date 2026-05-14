@@ -131,3 +131,9 @@
     <img src="https://raw.githubusercontent.com/ndgthuan/ndgthuan/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
   </picture>
 </div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2f80ed,58a6ff&height=120&section=footer" width="100%"/>
+</div>
