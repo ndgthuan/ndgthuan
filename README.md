@@ -16,8 +16,6 @@
 
 ---
 
----
-
 ## 👨‍💻 About Me
 - 🔭 **Current Project:** Working on [TravelerApplication](https://github.com/lephuckhang186/TravelerApplication) (Flutter & Firebase)
 - 🤖 **Personal Assistant:** Building [JARVIS](https://github.com/ndgthuan/JARVIS) with Python & C++
