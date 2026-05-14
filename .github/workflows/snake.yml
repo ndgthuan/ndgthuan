@@ -23,9 +23,9 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             # Phiên bản Light Theme (rắn cam, ô xanh dương)
-            dist/github-contribution-grid-snake.svg?color_snake=#f56c6c&color_dots=#ebedf0,#90c2ff,#58a6ff,#2f80ed,#005cc5
+            dist/github-contribution-grid-snake2.svg?color_snake=#f56c6c&color_dots=#ebedf0,#90c2ff,#58a6ff,#2f80ed,#005cc5
             
             # Phiên bản Dark Theme (rắn vàng, ô xanh dương sáng, nền trong suốt)
-            dist/github-contribution-grid-snake-dark.svg?color_snake=#ffcc00&color_dots=#161b22,#003d73,#005cc5,#2f80ed,#58a6ff
+            dist/github-contribution-grid-snake-dark2.svg?color_snake=#ffcc00&color_dots=#161b22,#003d73,#005cc5,#2f80ed,#58a6ff
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
