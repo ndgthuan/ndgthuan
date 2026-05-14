@@ -67,7 +67,7 @@
 
 ---
 
-### Activity
+### Activity Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=NDGTHUAN&theme=github-dark&hide_border=true&bg_color=161b22" alt="GitHub Activity Graph" width="100%">
