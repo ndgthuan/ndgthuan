@@ -5,7 +5,7 @@
 <h1 align="center">🌌 Welcome to my universe!</h1> 
  
 <p align="center"> 
-  <b>Data Engineering | Software Engineering | AI Enthusiast</b> 
+  <b>Data Engineering | AI Enthusiast</b> 
 </p> 
  
 <p align="center"> 
