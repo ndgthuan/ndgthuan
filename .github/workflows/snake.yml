@@ -29,3 +29,12 @@ jobs:
             dist/github-contribution-grid-snake-dark2.svg?color_snake=#ffcc00&color_dots=#161b22,#003d73,#005cc5,#2f80ed,#58a6ff
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # Push file rắn lên nhánh output
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
