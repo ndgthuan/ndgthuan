@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="https://placehold.jp/35/000000/ffffff/400x100.png?text=HELLO,%20NDGTHUAN" alt="header" />
-</p>
+<div align="center">
+  <img src="https://img.shields.io/badge/HELLO%2C%20NDGTHUAN-000000?style=for-the-badge&logo=github&logoColor=white" alt="Hello Badge" />
+</div>
 
 <h1 align="center">🌌 Welcome to my universe!</h1>
 
