@@ -1,11 +1,20 @@
 # 🚀 Hi there, I'm Thuận Nguyễn 👋
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Welcome%20to%20my%20Universe&fontSize=50&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/render?type=flat&color=000000&height=100&section=header&text=HELLO,%20NDGTHUAN&fontSize=30&fontAlignY=50&animation=twinkling" />
 </p>
 
-### 🎓 Student @ University of Science (HCMUS) 
-**Data Engineering | Software Engineering | AI Enthusiast**
+<h1 align="center">🌌 Welcome to my universe!</h1>
+
+<p align="center">
+  <b>Data Engineering | Software Engineering | AI Enthusiast</b>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ndgthuan&label=Profile%20views&color=df0eb1&style=flat" alt="ndgthuan" />
+</p>
+
+---
 
 ---
 
