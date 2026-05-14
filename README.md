@@ -32,7 +32,8 @@
 
 ## 📈 GitHub Analytics
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ndgthuan&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ndgthuan&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ndgthuan&layout=compact&theme=tokyonight" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndgthuan&layout=compact&theme=tokyonight" />
 </p>
 
