@@ -65,6 +65,16 @@
   </a>
 </div>
 
+---
+
+### Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NDGTHUAN&theme=github-dark&hide_border=true&bg_color=161b22" alt="GitHub Activity Graph" width="100%">
+</div>
+
+---
+
 ## 📈 GitHub Analytics
 <p align="center">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ndgthuan&show_icons=true&theme=tokyonight" />
