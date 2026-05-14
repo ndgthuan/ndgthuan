@@ -87,9 +87,9 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ndgthuan&layout=compact&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=ndgthuan&theme=tokyonight" />
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NDGTHUAN&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
+</div>
 
 ## 🐍 Contribution Snake
 <p align="center">
