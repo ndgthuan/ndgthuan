@@ -83,12 +83,12 @@
 </div>
 <br>
 <p align="center"> 
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=ndgthuan&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" /> 
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ndgthuan&layout=compact&theme=radical&hide_border=true" alt="Top Languages" /> 
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=ndgthuan&show_icons=true&hide_border=true&bg_color=00000000&title_color=2f80ed&icon_color=2f80ed&text_color=434d58" alt="GitHub Stats" /> 
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ndgthuan&layout=compact&hide_border=true&bg_color=00000000&title_color=2f80ed&text_color=434d58" alt="Top Languages" /> 
 </p> 
 
 <div align="center"> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NDGTHUAN&theme=radical&hide_border=true" alt="GitHub Streak" /> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NDGTHUAN&hide_border=true&background=00000000&ring=2f80ed&fire=2f80ed&currStreakNum=2f80ed&sideNums=434d58&currStreakLabel=434d58&sideLabels=434d58&dates=434d58" alt="GitHub Streak" /> 
 </div>
 
 ## 🐍 Contribution Snake
