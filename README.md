@@ -82,13 +82,13 @@
   </a>
 </div>
 <br>
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ndgthuan&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ndgthuan&layout=compact&theme=tokyonight" />
-</p>
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=ndgthuan&show_icons=true&hide_border=true&bg_color=00000000&title_color=2f80ed&icon_color=2f80ed&text_color=434d58" alt="GitHub Stats" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndgthuan&layout=compact&hide_border=true&bg_color=00000000&title_color=2f80ed&text_color=434d58" alt="Top Languages" /> 
+</p> 
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NDGTHUAN&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
+<div align="center"> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NDGTHUAN&hide_border=true&background=00000000&ring=2f80ed&fire=2f80ed&currStreakNum=2f80ed&sideNums=434d58&currStreakLabel=434d58&sideLabels=434d58&dates=434d58" alt="GitHub Streak" /> 
 </div>
 
 ## 🐍 Contribution Snake
