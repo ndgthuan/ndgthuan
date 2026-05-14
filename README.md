@@ -14,11 +14,33 @@
 
 ---
 
-## 👨‍💻 About Me
-- 🔭 **Current Project:** Working on [TravelerApplication](https://github.com/lephuckhang186/TravelerApplication) (Flutter & Firebase)
-- 🤖 **Personal Assistant:** Building [JARVIS](https://github.com/ndgthuan/JARVIS) with Python & C++
-- 📚 **Focus:** LLMs, AI Agents, and Data Pipelines
-- 🕹️ **Hobby:** Technical Minecraft (v1.21.1) & Game Modding
+### 💻 About Me
+
+- 🎯 **Current Focus:** Crafting applications with **.NET Core, Python, and React**.
+- 📚 **Learning Next:** Mastering **Cloud Solutions (AWS/GCP)** and **DevOps**.
+- 🤝 **Collaborations:** Open to discussions on **AI/ML, Web3,** and **Blockchain**.
+
+<br>
+
+### 📧 Connect with Me
+
+<div align="center">
+  <a href="https://github.com/NDGTHUAN">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:emailcuaban@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://linkedin.com/in/link-cua-ban">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avito_play_dribbble.gif" alt="Coding Animation" width="400"/>
+</div>
 
 ## 🛠️ Tech Stack
 <p align="left">
