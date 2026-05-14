@@ -123,7 +123,7 @@
 
 ---
  
-### My Commit City
+### My Contribution City
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ndgthuan/ndgthuan/main/profile-3d-contrib/profile-night-view.svg" />
