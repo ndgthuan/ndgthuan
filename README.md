@@ -70,7 +70,7 @@
 ### Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NDGTHUAN&theme=github-dark&hide_border=true&bg_color=161b22" alt="GitHub Activity Graph" width="100%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NDGTHUAN&hide_border=true&bg_color=00000000&color=434d58&line=2f80ed&point=434d58" alt="GitHub Activity Graph" width="100%">
 </div>
 
 ---
