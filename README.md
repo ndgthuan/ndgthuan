@@ -76,6 +76,12 @@
 ---
 
 ### GitHub Analytics & Streak
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=NDGTHUAN&theme=flat&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+  </a>
+</div>
+<br>
 <p align="center">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ndgthuan&show_icons=true&theme=tokyonight" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ndgthuan&layout=compact&theme=tokyonight" />
