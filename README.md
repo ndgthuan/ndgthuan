@@ -79,47 +79,35 @@
  
 --- 
  
-### GitHub Metrics & Insights 
-<div align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy"> 
-    <picture> 
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=NDGTHUAN&theme=radical&no-frame=false&no-bg=true&margin-w=15" /> 
-      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=NDGTHUAN&theme=flat&no-frame=false&no-bg=true&margin-w=15" /> 
-      <img src="https://github-profile-trophy.vercel.app/?username=NDGTHUAN&theme=flat&no-frame=false&no-bg=true&margin-w=15" alt="GitHub Trophies" /> 
-    </picture> 
-  </a> 
-</div> 
- 
-<br> 
- 
-<div align="center"> 
-  <table style="border: none;"> 
-    <tr style="border: none;"> 
-      <td align="center" style="border: none; padding: 0 10px;"> 
-        <picture> 
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api?username=ndgthuan&show_icons=true&hide_border=true&border_color=30363d&bg_color=00000000&title_color=58a6ff&icon_color=58a6ff&text_color=ffffff" /> 
-          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api?username=ndgthuan&show_icons=true&hide_border=true&border_color=e4e2e2&bg_color=00000000&title_color=2f80ed&icon_color=2f80ed&text_color=434d58" /> 
-          <img src="https://github-readme-stats-fast.vercel.app/api?username=ndgthuan&show_icons=true&hide_border=true&bg_color=00000000&title_color=2f80ed&icon_color=2f80ed&text_color=434d58" alt="GitHub Stats" height="195" /> 
-        </picture> 
-      </td> 
-      <td align="center" style="border: none; padding: 0 10px;"> 
-        <picture> 
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ndgthuan&layout=compact&hide_border=true&border_color=30363d&bg_color=00000000&title_color=58a6ff&text_color=ffffff&langs_count=5" /> 
-          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ndgthuan&layout=compact&hide_border=true&border_color=e4e2e2&bg_color=00000000&title_color=2f80ed&text_color=434d58&langs_count=5" /> 
-          <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ndgthuan&layout=compact&hide_border=true&bg_color=00000000&title_color=2f80ed&text_color=434d58&langs_count=5" alt="Top Languages" height="195" /> 
-        </picture> 
-      </td> 
-    </tr> 
-  </table> 
-</div> 
- 
-<div align="center"> 
-  <picture> 
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=NDGTHUAN&hide_border=false&border=30363d&background=00000000&ring=58a6ff&fire=58a6ff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&card_width=875" /> 
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=NDGTHUAN&hide_border=false&border=e4e2e2&background=00000000&ring=2f80ed&fire=2f80ed&currStreakNum=2f80ed&sideNums=434d58&currStreakLabel=434d58&sideLabels=434d58&dates=434d58&card_width=875" /> 
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=NDGTHUAN&hide_border=false&background=00000000&ring=2f80ed&fire=2f80ed&currStreakNum=2f80ed&sideNums=434d58&currStreakLabel=434d58&sideLabels=434d58&dates=434d58&card_width=875" alt="GitHub Streak" /> 
-  </picture> 
-</div> 
+### GitHub Metrics & Insights  
+<div align="center">  
+  <table style="border: none;">  
+    <tr style="border: none;">  
+      <td align="center" style="border: none; padding: 0 10px;">  
+        <picture>  
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api?username=ndgthuan&show_icons=true&hide_border=true&border_color=30363d&bg_color=00000000&title_color=58a6ff&icon_color=58a6ff&text_color=ffffff&count_private=true" />  
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api?username=ndgthuan&show_icons=true&hide_border=true&border_color=e4e2e2&bg_color=00000000&title_color=2f80ed&icon_color=2f80ed&text_color=434d58&count_private=true" />  
+          <img src="https://github-readme-stats-fast.vercel.app/api?username=ndgthuan&show_icons=true&hide_border=true&bg_color=00000000&title_color=2f80ed&icon_color=2f80ed&text_color=434d58&count_private=true" alt="GitHub Stats" height="195" />  
+        </picture>  
+      </td>  
+      <td align="center" style="border: none; padding: 0 10px;">  
+        <picture>  
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ndgthuan&layout=compact&hide_border=true&border_color=30363d&bg_color=00000000&title_color=58a6ff&text_color=ffffff&langs_count=5&count_private=true" />  
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ndgthuan&layout=compact&hide_border=true&border_color=e4e2e2&bg_color=00000000&title_color=2f80ed&text_color=434d58&langs_count=5&count_private=true" />  
+          <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ndgthuan&layout=compact&hide_border=true&bg_color=00000000&title_color=2f80ed&text_color=434d58&langs_count=5&count_private=true" alt="Top Languages" height="195" />  
+        </picture>  
+      </td>  
+    </tr>  
+  </table>  
+</div>  
+  
+<div align="center">  
+  <picture>  
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=NDGTHUAN&hide_border=false&border=30363d&background=00000000&ring=58a6ff&fire=58a6ff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&card_width=875&count_private=true" />  
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=NDGTHUAN&hide_border=false&border=e4e2e2&background=00000000&ring=2f80ed&fire=2f80ed&currStreakNum=2f80ed&sideNums=434d58&currStreakLabel=434d58&sideLabels=434d58&dates=434d58&card_width=875&count_private=true" />  
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=NDGTHUAN&hide_border=false&background=00000000&ring=2f80ed&fire=2f80ed&currStreakNum=2f80ed&sideNums=434d58&currStreakLabel=434d58&sideLabels=434d58&dates=434d58&card_width=875&count_private=true" alt="GitHub Streak" />  
+  </picture>  
+</div>
  
 --- 
  
