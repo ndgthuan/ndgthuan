@@ -143,16 +143,6 @@ On the side, I build small tools and tweaks for myself.
   <img src="https://streak-stats.demolab.com/?user=ndgthuan&hide_border=true&background=0D1520&ring=F6B56B&fire=EC8466&currStreakNum=EEF3F7&sideNums=EEF3F7&currStreakLabel=F6B56B&sideLabels=8EA3B8&dates=8EA3B8&stroke=24364A&card_width=1000" width="100%" alt="GitHub streak" />
 </p>
 
-### RECENTLY PUSHED
-
-<!-- recent_repos starts -->
-- [**tdrive**](https://github.com/ndgthuan/tdrive) &mdash; TDrive - Go + Wails desktop app (Telegram as cloud d... <sub>`Go` 2026-10-31</sub>
-- [**olist**](https://github.com/ndgthuan/olist) &mdash; Working with pipeline <sub>`Python` 2026-10-30</sub>
-- [**quietbattery**](https://github.com/ndgthuan/quietbattery) &mdash; TrollStore app that hides the iOS low-battery (20%/1... <sub>`Python` 2026-10-18</sub>
-- [**warehouse**](https://github.com/ndgthuan/warehouse) &mdash; Bulding a mordern data warehouse with SQL server, in... <sub>`TSQL` 2026-08-01</sub>
-- [**autoclick**](https://github.com/ndgthuan/autoclick) &mdash; Modern AutoClicker Pro <sub>`C#` 2025-10-12</sub>
-<!-- recent_repos ends -->
-
 ---
 
 ## CONTACT
@@ -183,5 +173,3 @@ Happy to talk about data pipelines, warehouses, AI systems, or anything I've bui
     <img alt="Contribution snake" src="https://raw.githubusercontent.com/ndgthuan/ndgthuan/output/github-contribution-grid-snake2.svg">
   </picture>
 </p>
-
-<p align="center"><sub>Header, pipeline, telemetry and quote cards are generated daily by <a href="./scripts/build.py">scripts/build.py</a>.</sub></p>

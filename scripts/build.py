@@ -7,7 +7,6 @@ import base64
 import datetime as dt
 import json
 import os
-import re
 import urllib.request
 from html import escape
 from pathlib import Path
@@ -17,7 +16,6 @@ USER_ID = 179018304
 ROOT = Path(__file__).resolve().parent.parent
 ASSETS = ROOT / "assets"
 JOINED = dt.date(2024, 8, 21)  # GitHub account creation date
-HIDDEN_REPOS = {USER, "todo"}  # never listed under RECENTLY PUSHED
 
 SANS = "'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif"
 MONO = "Consolas, 'SF Mono', Menlo, 'DejaVu Sans Mono', monospace"
@@ -86,7 +84,6 @@ def fetch():
         "followers": data["followers"]["totalCount"],
         "contributions": data["contributionsCollection"]["contributionCalendar"]["totalContributions"],
         "languages": sorted(langs.items(), key=lambda kv: -kv[1][0]),
-        "recent": [r for r in repos if not r["isFork"] and r["name"] not in HIDDEN_REPOS][:6],
     }
 
 
@@ -308,28 +305,6 @@ def quote_svg():
     return "\n".join(parts) + "\n"
 
 
-# ---------------------------------------------------------------- readme
-
-
-def replace_block(text, name, content):
-    pattern = re.compile(rf"(<!-- {name} starts -->).*?(<!-- {name} ends -->)", re.S)
-    return pattern.sub(lambda m: f"{m.group(1)}\n{content}\n{m.group(2)}", text)
-
-
-def recent_block(repos):
-    lines = []
-    for r in repos:
-        date = r["pushedAt"][:10]
-        lang = r["primaryLanguage"]["name"] if r["primaryLanguage"] else ""
-        desc = r["description"] or ""
-        if len(desc) > 55:
-            desc = desc[:52].rstrip() + "..."
-        desc = f" &mdash; {escape(desc)}" if desc else ""
-        meta = f" <sub>`{lang}` {date}</sub>" if lang else f" <sub>{date}</sub>"
-        lines.append(f"- [**{r['name']}**]({r['url']}){desc}{meta}")
-    return "\n".join(lines)
-
-
 def main():
     today = dt.date.today()
     stats = fetch()
@@ -338,11 +313,6 @@ def main():
     (ASSETS / "pipeline.svg").write_text(pipeline_svg(), encoding="utf-8")
     (ASSETS / "telemetry.svg").write_text(telemetry_svg(stats, today), encoding="utf-8")
     (ASSETS / "quote.svg").write_text(quote_svg(), encoding="utf-8")
-
-    readme = ROOT / "README.md"
-    text = readme.read_text(encoding="utf-8")
-    text = replace_block(text, "recent_repos", recent_block(stats["recent"]))
-    readme.write_text(text, encoding="utf-8")
 
 
 if __name__ == "__main__":
