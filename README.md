@@ -149,9 +149,8 @@ On the side, I build small tools and tweaks for myself.
 - [**tdrive**](https://github.com/ndgthuan/tdrive) &mdash; TDrive - Go + Wails desktop app (Telegram as cloud d... <sub>`Go` 2026-10-31</sub>
 - [**olist**](https://github.com/ndgthuan/olist) &mdash; Working with pipeline <sub>`Python` 2026-10-30</sub>
 - [**quietbattery**](https://github.com/ndgthuan/quietbattery) &mdash; TrollStore app that hides the iOS low-battery (20%/1... <sub>`Python` 2026-10-18</sub>
-- [**jello**](https://github.com/ndgthuan/jello) <sub>`C++` 2026-10-11</sub>
 - [**warehouse**](https://github.com/ndgthuan/warehouse) &mdash; Bulding a mordern data warehouse with SQL server, in... <sub>`TSQL` 2026-08-01</sub>
-- [**pycourse**](https://github.com/ndgthuan/pycourse) <sub>`Python` 2025-11-15</sub>
+- [**autoclick**](https://github.com/ndgthuan/autoclick) &mdash; Modern AutoClicker Pro <sub>`C#` 2025-10-12</sub>
 <!-- recent_repos ends -->
 
 ---
