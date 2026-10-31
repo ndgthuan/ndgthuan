@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="210" viewBox="0 0 1000 210" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<style>
+.q { opacity: 0; animation: q 18s infinite; }
+@keyframes q { 0% { opacity: 0 } 2.7% { opacity: 1 } 30.7% { opacity: 1 } 33.3%, 100% { opacity: 0 } }
+</style>
+<rect width="1000" height="210" rx="16" fill="#0d1520" stroke="#24364a"/>
+<rect x="0" y="0" width="5" height="210" rx="2" fill="#f6b56b"/>
+<text x="40" y="104" font-family="Georgia, serif" font-size="96" fill="#f6b56b" opacity=".35">&#8220;</text>
+<text x="960" y="206" text-anchor="end" font-family="Georgia, serif" font-size="96" fill="#f6b56b" opacity=".35">&#8221;</text>
+<g class="q" style="animation-delay:0s">
+<text x="500" y="88" text-anchor="middle" font-size="23" font-weight="700" fill="#eef3f7">Software is eating the world,</text>
+<text x="500" y="124" text-anchor="middle" font-size="23" font-weight="700" fill="#eef3f7">but AI is going to eat software.</text>
+<text x="500" y="162" text-anchor="middle" font-family="Consolas, 'SF Mono', Menlo, 'DejaVu Sans Mono', monospace" font-size="13" fill="#f6b56b"><tspan fill="#ec8466">&#8212;&#8212;  </tspan>Jensen Huang, 2017<tspan fill="#ec8466">  &#8212;&#8212;</tspan></text>
+</g>
+<g class="q" style="animation-delay:6s">
+<text x="500" y="88" text-anchor="middle" font-size="23" font-weight="700" fill="#eef3f7">Greatness comes from character. Character isn&#x27;t formed out</text>
+<text x="500" y="124" text-anchor="middle" font-size="23" font-weight="700" fill="#eef3f7">of smart people, it&#x27;s formed out of people who suffered.</text>
+<text x="500" y="162" text-anchor="middle" font-family="Consolas, 'SF Mono', Menlo, 'DejaVu Sans Mono', monospace" font-size="13" fill="#f6b56b"><tspan fill="#ec8466">&#8212;&#8212;  </tspan>Jensen Huang, Stanford GSB, 2024<tspan fill="#ec8466">  &#8212;&#8212;</tspan></text>
+</g>
+<g class="q" style="animation-delay:12s">
+<text x="500" y="88" text-anchor="middle" font-size="23" font-weight="700" fill="#eef3f7">Whatever it is, run after it like we did.</text>
+<text x="500" y="124" text-anchor="middle" font-size="23" font-weight="700" fill="#eef3f7">Run, don&#x27;t walk.</text>
+<text x="500" y="162" text-anchor="middle" font-family="Consolas, 'SF Mono', Menlo, 'DejaVu Sans Mono', monospace" font-size="13" fill="#f6b56b"><tspan fill="#ec8466">&#8212;&#8212;  </tspan>Jensen Huang, NTU commencement, 2023<tspan fill="#ec8466">  &#8212;&#8212;</tspan></text>
+</g>
+</svg>

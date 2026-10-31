@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="250" viewBox="0 0 1000 250" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<style>
+.flow { stroke-dasharray: 4 10; animation: flow 1.2s linear infinite; }
+@keyframes flow { to { stroke-dashoffset: -14 } }
+.pulse { animation: pulse 2.4s ease-in-out infinite; }
+@keyframes pulse { 0%,100% { opacity: .35 } 50% { opacity: 1 } }
+</style>
+<rect width="1000" height="250" rx="16" fill="#0d1520" stroke="#24364a"/>
+<text x="28" y="36" font-family="Consolas, 'SF Mono', Menlo, 'DejaVu Sans Mono', monospace" font-size="12" letter-spacing="2" fill="#8ea3b8">DATA_PIPELINE // HOW_I_BUILD</text>
+<circle cx="872" cy="32" r="4" fill="#3fd68c" class="pulse"/>
+<text x="884" y="36" font-family="Consolas, 'SF Mono', Menlo, 'DejaVu Sans Mono', monospace" font-size="12" letter-spacing="2" fill="#3fd68c">RUNNING</text>
+<rect x="33" y="66" width="196" height="150" rx="12" fill="#142131" stroke="#f6b56b" stroke-opacity=".7"/>
+<rect x="33" y="66" width="196" height="4" rx="2" fill="#f6b56b"/>
+<text x="51" y="100" font-family="Consolas, 'SF Mono', Menlo, 'DejaVu Sans Mono', monospace" font-size="11" fill="#f6b56b">01</text>
+<text x="51" y="124" font-size="17" font-weight="800" fill="#eef3f7" letter-spacing="1">SOURCES</text>
+<text x="51" y="144" font-family="Consolas, 'SF Mono', Menlo, 'DejaVu Sans Mono', monospace" font-size="10.5" font-weight="bold" fill="#f6b56b">CSV · REST APIs · OLTP</text>
+<rect x="51" y="156" width="160" height="3" rx="1.5" fill="#24364a"/>
+<rect x="51" y="156" width="40" height="3" rx="1.5" fill="#f6b56b"/>
+<text x="51" y="180" font-family="Consolas, 'SF Mono', Menlo, 'DejaVu Sans Mono', monospace" font-size="11" fill="#8ea3b8">e-commerce: olist</text>
+<text x="51" y="197" font-family="Consolas, 'SF Mono', Menlo, 'DejaVu Sans Mono', monospace" font-size="11" fill="#8ea3b8">formats: csv / json</text>
+<line x1="233" y1="141" x2="275" y2="141" stroke="#f6b56b" stroke-width="2" class="flow"/>
+<path d="M269 136 L275 141 L269 146" fill="none" stroke="#f6b56b" stroke-width="2"/>
+<rect x="279" y="66" width="196" height="150" rx="12" fill="#142131" stroke="#ec8466" stroke-opacity=".7"/>
+<rect x="279" y="66" width="196" height="4" rx="2" fill="#ec8466"/>
+<text x="297" y="100" font-family="Consolas, 'SF Mono', Menlo, 'DejaVu Sans Mono', monospace" font-size="11" fill="#ec8466">02</text>
+<text x="297" y="124" font-size="17" font-weight="800" fill="#eef3f7" letter-spacing="1">INGEST</text>
+<text x="297" y="144" font-family="Consolas, 'SF Mono', Menlo, 'DejaVu Sans Mono', monospace" font-size="10.5" font-weight="bold" fill="#ec8466">PYTHON · KAFKA</text>
+<rect x="297" y="156" width="160" height="3" rx="1.5" fill="#24364a"/>
+<rect x="297" y="156" width="80" height="3" rx="1.5" fill="#ec8466"/>
+<text x="297" y="180" font-family="Consolas, 'SF Mono', Menlo, 'DejaVu Sans Mono', monospace" font-size="11" fill="#8ea3b8">extract + validate</text>
+<text x="297" y="197" font-family="Consolas, 'SF Mono', Menlo, 'DejaVu Sans Mono', monospace" font-size="11" fill="#8ea3b8">load as-is to bronze</text>
+<line x1="479" y1="141" x2="521" y2="141" stroke="#ec8466" stroke-width="2" class="flow"/>
+<path d="M515 136 L521 141 L515 146" fill="none" stroke="#ec8466" stroke-width="2"/>
+<rect x="525" y="66" width="196" height="150" rx="12" fill="#142131" stroke="#5fb3e0" stroke-opacity=".7"/>
+<rect x="525" y="66" width="196" height="4" rx="2" fill="#5fb3e0"/>
+<text x="543" y="100" font-family="Consolas, 'SF Mono', Menlo, 'DejaVu Sans Mono', monospace" font-size="11" fill="#5fb3e0">03</text>
+<text x="543" y="124" font-size="17" font-weight="800" fill="#eef3f7" letter-spacing="1">WAREHOUSE</text>
+<text x="543" y="144" font-family="Consolas, 'SF Mono', Menlo, 'DejaVu Sans Mono', monospace" font-size="10.5" font-weight="bold" fill="#5fb3e0">SQL SERVER · T-SQL</text>
+<rect x="543" y="156" width="160" height="3" rx="1.5" fill="#24364a"/>
+<rect x="543" y="156" width="120" height="3" rx="1.5" fill="#5fb3e0"/>
+<text x="543" y="180" font-family="Consolas, 'SF Mono', Menlo, 'DejaVu Sans Mono', monospace" font-size="11" fill="#8ea3b8">bronze &gt; silver &gt; gold</text>
+<text x="543" y="197" font-family="Consolas, 'SF Mono', Menlo, 'DejaVu Sans Mono', monospace" font-size="11" fill="#8ea3b8">dimensional modeling</text>
+<line x1="725" y1="141" x2="767" y2="141" stroke="#5fb3e0" stroke-width="2" class="flow"/>
+<path d="M761 136 L767 141 L761 146" fill="none" stroke="#5fb3e0" stroke-width="2"/>
+<rect x="771" y="66" width="196" height="150" rx="12" fill="#142131" stroke="#8cc265" stroke-opacity=".7"/>
+<rect x="771" y="66" width="196" height="4" rx="2" fill="#8cc265"/>
+<text x="789" y="100" font-family="Consolas, 'SF Mono', Menlo, 'DejaVu Sans Mono', monospace" font-size="11" fill="#8cc265">04</text>
+<text x="789" y="124" font-size="17" font-weight="800" fill="#eef3f7" letter-spacing="1">SERVE</text>
+<text x="789" y="144" font-family="Consolas, 'SF Mono', Menlo, 'DejaVu Sans Mono', monospace" font-size="10.5" font-weight="bold" fill="#8cc265">BI · ML · LLM APPS</text>
+<rect x="789" y="156" width="160" height="3" rx="1.5" fill="#24364a"/>
+<rect x="789" y="156" width="160" height="3" rx="1.5" fill="#8cc265"/>
+<text x="789" y="180" font-family="Consolas, 'SF Mono', Menlo, 'DejaVu Sans Mono', monospace" font-size="11" fill="#8ea3b8">dashboards &amp; KPIs</text>
+<text x="789" y="197" font-family="Consolas, 'SF Mono', Menlo, 'DejaVu Sans Mono', monospace" font-size="11" fill="#8ea3b8">features for AI models</text>
+</svg>
