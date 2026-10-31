@@ -224,18 +224,17 @@ def pipeline_svg():
 
 
 def telemetry_svg(stats, today):
-    w, h = 1000, 230
+    w, h = 1000, 204
     tiles = [
         ("CONTRIBUTIONS", f"{stats['contributions']:,}", "past 12 months", PEACH),
         ("PUBLIC REPOS", f"{stats['repos']}", "and counting", CORAL),
         ("STARS EARNED", f"{stats['stars']}", "thank you", SKY),
         ("DAYS ON GITHUB", f"{days_since(JOINED, today):,}", f"since {JOINED:%b %Y}", LEAF),
     ]
-    tile_w, gap, left, top = 220, 20, 30, 56
+    tile_w, gap, left, top = 220, 20, 30, 30
     parts = [
         f'<svg xmlns="http://www.w3.org/2000/svg" width="{w}" height="{h}" viewBox="0 0 {w} {h}" font-family="{SANS}">',
         f'<rect width="{w}" height="{h}" rx="16" fill="{NIGHT}" stroke="{LINE}"/>',
-        f'<text x="28" y="36" font-family="{MONO}" font-size="12" letter-spacing="2" fill="{MUTED}">GITHUB_TELEMETRY // UPDATED {today:%Y-%m-%d}</text>',
     ]
     for i, (label, value, note, color) in enumerate(tiles):
         x = left + i * (tile_w + gap)
@@ -250,7 +249,7 @@ def telemetry_svg(stats, today):
     # language bar, by bytes across all public non-fork repos
     langs = stats["languages"][:6]
     total = sum(size for _, (size, _) in langs) or 1
-    bar_x, bar_y, bar_w = 30, 172, w - 60
+    bar_x, bar_y, bar_w = 30, 146, w - 60
     parts.append(f'<clipPath id="bar"><rect x="{bar_x}" y="{bar_y}" width="{bar_w}" height="10" rx="5"/></clipPath>')
     parts.append('<g clip-path="url(#bar)">')
     x = bar_x
